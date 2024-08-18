@@ -2,20 +2,11 @@
 #include <string>
 
 int main() {
-
-	/* Hello!Welcome to my github!This is a little program I made up on the spot to start off where I finished studyingn last night
-    to reiterate important basic concepts: The main function is the entry point of our program in C++ 
-	It is best practice to name this file main.cpp--> my admission I was letting these files be named source.cpp, but no longer!
-	notice I don't use under the part of the header where i include files and libraries, the statement often used,
-	"using the namespace std;" because I like to write out everything in full.  */
-	/* As my mom's culture has a saying, "short cut draws blood." I believe it to be true!  */
-//coding ORIGINALLY DONE BY: SJK or SHaina Jheanelle Karasik, future game engineer for Activsion Blizzard's Level Up U Internship trainee!
-
 	std::string str1;
 	str1 = "This is my Git Hub  ";
 
 	std::string str2;
-	str2 = "I believe that my apps and projects are a good start!";
+	str2 = "It's under construction, as I just started self-studying C++ adn programming almost a month ago. I am about to enroll at CGSpectrum as a game development essentials sutdent!";
 
 	std::string stR2;
 	stR2 = " But if they are not as impressive as they should be, I will work much harder! I never give up, and I love to continually learn. Continuous learning throughout my career is important to me, just like habing excellent communication is!";
